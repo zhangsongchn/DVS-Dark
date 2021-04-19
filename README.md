@@ -3,6 +3,8 @@
 Implementation of ECCV2020 paper "Learning to See in the Dark with Events"
 # Run
 
+git clone https://github.com/zhangsongchn/DVS-Dark.git
+git lfs pull
 virtualenv -p /usr/bin/python2.7 Dark-venv \
 source Dark-venv/bin/activate \
 pip install -r requiresments.txt \
